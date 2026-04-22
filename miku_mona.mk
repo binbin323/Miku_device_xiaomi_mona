@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/mona/device.mk)
 $(call inherit-product, vendor/miku/build/product/miku_product.mk)
 
 # Maintainer
-MIKU_MASTER := AmeChan
+MIKU_MASTER := binbin323
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := miku_mona
